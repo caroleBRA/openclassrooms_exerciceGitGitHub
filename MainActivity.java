@@ -4,7 +4,7 @@ public class MainActivity extends AppComptActivity {
 TextView mTextView;
 
 @ViewById(R.id.mButton)
-TextView mButton;
+Button mButton;
 
 @AfterViews
 void init(){
