@@ -1,4 +1,4 @@
-@EActivity(R.layout.second_activity)
+@EActivity(R.layout.secondary_activity)
 public class SecondActivity extends AppCompatActivity{
 //TODO
 }
